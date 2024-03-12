@@ -1,0 +1,87 @@
+﻿<title>Journey Under The Sea</title>
+<author>R.A. Montgomery</author>
+
+
+<p0>You are an underwater explorer. You are leaving to explore the deepest oceans. You must find the lost city of Atlantis. This is your most challenging assignment. It is morning and the sun pushes up on the horizon. The sea is calm. You climb into the narrow pilot's compartment of the underwater vessel Seeker with your special gear. The crew of the research vessel Maray screws down the hatch clamps. Now begins the plunge into the depths of the ocean. The Seeker crew begins lowering by a strong, but thin cable. Within minutes, you are so deep in the ocean that little light filters down to you. The silence is eerie as the Seeker slips deeper and deeper. You peer out the thick glass porthole and see fish drifting past, sometimes stopping to look at you—an intruder from another world. 
+
+
+<br> Now the cable attaching you to Maray is extended almost to its limit. You have come to rest on a ledge near the canyon in the ocean floor that supposedly leads to the lost city of Atlantis. You have a special sea suit that will protect you from the intense pressure of the deep if you choose to walk about on the sea bottom. You can cut loose from the cable if you wish because the Seeker is self-propelled. You are now in another world.</p0>
+
+
+<d0><c0:p6>Explore the ledge where the Seeker has come to rest?</c0:p6>
+<c1:p5>Cut loose from the Maray and dive with the Seeker into the canyon on the ocean floor?</c1:p5></d0>
+
+
+<p6> Your sea suit will protect you from the intense pressures of the deep. It is a tight fit and takes you some time to put it on. Finally you slip from the airlock of the Seeker and stand on the ocean floor. It is a strange and marvelous world where your every move is slowed down. You begin to explore with your special hand-held searchlight. You examine the ledge by the canyon. Suddenly, a school of bright yellow angel fish dart by, almost brushing you. What made them move so fast? Are they being chased? Then you see it. The Seeker is in the grips of a huge sea monster. It is similar to a squid, but it is enormous. The Seeker is just a toy in its long, powerful tentacles. You seek shelter behind a rock formation. You know the spear gun you carry will be useless against this monster. It looks as though it will destroy the Seeker. Fish of all sizes huddle with you in an attempt to escape the monster.</p6>
+
+
+<d1><c0:p10>Stay hidden close to the Seeker.</c0:p10><c1:p12>Try to escape in the hope that rescuers will see you.</c1:p12>
+
+
+<p5> You radio a status report to the Moray and tell them that you are going to cast off from the line and descend under your own power. Your plan is approved and you cast off your line. Now you are on your own. The Seeker slips noiselessly into the undersea canyon. As you drop into the canyon, you turn on the Seeker's powerful searchlight. Straight ahead is a dark wall covered with a strange type of barnacle growth. To the left (port) side you see what appears to be a grotto. The entrance is perfectly round, as if it had been cut by human hands. Lantern fish give off a pale, greenish light. To the right (starboard) side of the Seeker you see bubbles rising steadily from the floor of the canyon.</p5>
+
+
+<d2><c0:p8>Decide to investigate the bubbles..</c0:p8><c1:p9>Decide to investigate the grotto with the round entrance.</c1:p9>
+
+
+<p8>Carefully, you maneuver the Seeker between the walls of the canyon. On the floor of the canyon, you discover a large round hole out of which flow the large bubbles. The Seeker is equipped with scientific equipment to analyze the bubbles. It also has sonar equipment that can measure the depth of any hole.</p8>
+
+
+<d3><c0:p11>Analyze the bubbles..</c0:p11><c1:15>Take sonar readings..</c1:p15>
+
+
+<p9>You pilot the Seeker through the rounded entrance to the grotto. Once inside, your searchlight picks up what appear to be docks and piers along the grotto walls. The Seeker's searchlight is not very powerful. However, you do have a special laser light which would light up the grotto like daylight. Unfortunately, the laser light can only be used twice for very short periods before it must be recharged aboard the Maray, now more than 2,000 feet above you on the surface.</p9>
+
+
+<d4><c0:p16>Use the laser light.</c0:p16><c1:p14>Cruise further into the grotto.</c1:p14>
+
+
+<p10>The giant squid tosses and turnsthe Seeker, but finally the creature grows tired of its new game and jets off with an enormous squirt of water. You now are free to leave your hiding place and examine the Seeker for damage. To your dismay, the airlock entrance has been jammed shut. You are locked out of the Seeker. The crew of the Maray, however, suspected trouble when you did not respond to a routine radio check and they are now lowering an escape platform to you. Once on the platform, you radio them to start the slow pull to the surface. To avoid the bends—rapid expansion of nitrogen bubbles in your blood—they will have to bring you up very slowly. Just as the platform begins to move, the giant squid suddenly returns as if from nowhere. It is headed directly at you.</p10>
+
+
+<d5><c0:p17>Fight the squid with your spear gun in hopes to scare it off.</c0:p17><c1:p18>Signal the Maray to pull you up at top speed, knowing you will get the bends.</c1:p18>
+
+
+<p11>You squeeze into your sea suit and, outside the Seeker, you use special equipment to analyze the bubbles. As you work, you clumsily knock against the valve that dumps the compressed air necessary to make the Seeker rise to the surface. There is nothing to be done about it; so you continue to analyze the bubbles. They contain a high percentage of oxygen and no poisonous gases. Perhaps they are coming from some area below the sea where human-type beings can live and breathe. Perhaps they are coming from Atlantis. You wonder whether you should try the Seeker's drilling arm to enlarge the source of the bubbles so you can explore it with the Seeker. But you are also very worried about the Seeker's loss of rising capability. You might also be able to trap the bubbles and use them to raise the Seeker.</p11>
+
+
+<d6><c0:p24>Try to collect the bubbles coming from the hole to fill the tanks of the seeker.</c0:p24><c1:p22>Drill!</c1:p22>
+
+
+<p12>Moving cautiously, you climb up the sides of the canyon hoping to reach the ocean floor. You leave the Seeker in the grips of the giant squid. Your plan is to signal for help with a dye marker that will float to the surface and make a bright yellow patch in the water. The crewmen above have been instructed to watch for such emergency signals. They will send help. Once you reach the ledge above the canyon and feel slightly safer, you see the most feared of all sea creatures— a huge shark. It begins to circle towards you and you know that you are its target. You wonder whether you should fire your emergency propulsion charge that will send you rapidly to the surface. The shark is fast; he might catch you anyway. You also know that you will get the bends from the rapid rise to the surface. </p12>
+
+
+<d7><c0:p21>Fire the special propulsion charge to get to the surface.</c0:p21><c1:p19>Wait quietly, hoping that the shark will go away.</c1:p19>
+
+
+<p14>You cruise silently into the grotto. Its roof seems to slope upward and you follow the slope. The depth finder shows that you are rising quite rapidly. Perhaps you will reach the surface and open air. Then the roof of the grotto stops sloping upward. Before you is a perfectly round metallic hatch made of a metal that you have never seen before. With the mechanical arm of the Seeker you try to open the hatch. It will not open. You begin to send radio signals at the door hoping to make contact on the other side.</p14>
+
+
+<d8><c0:p26>Blow the hatch open with an explosive charge.</c0:p26><c1:p28>Continue transmitting radio communications through the hatch</c1:p28>
+
+
+<p15>You maneuver the Seeker next to the hole and begin to take sonar readings to determine the depth of the hole. To your amazement, the sonar readings indicate that the hole is extraordinarily deep— it might reach the center of the earth! What lies down there? Where are the bubbles coming from? Is Atlantis beneath you? Then you notice a disturbing reading on your instruments; a mild earthquake has occurred. The Seeker is not damaged, but the earthquake could set up a tsunami wave on the surface causing the Moray to leave for safer areas. It might be dangerous not to get back to the surface and leave with the Moray. On the other hand, you are perhaps on the verge of one of the world's greatest discoveries.</p15>
+
+
+<d9><c0:p23>Descend into the hole.</c0:p23><c1:p27>Return to the surface.</c1:p27>
+
+
+<p16>The beam from the laser light illuminates the entire grotto. Far back on the floor of the grotto is a submarine! Cautiously, you maneuver the Seeker closer. You identify it asthe submarine that mysteriously disappeared in the Bermuda Triangle almost a year before. The Bermuda Triangle is more than 2000 miles away. The submarine is apparently not damaged, but it is covered with a slimy algae. Beautiful fish swim around it as though it is their own special prize. Then you notice that the main hatch is free of algae!</p16>
+
+
+ <d10><c0:p29>Try to enter the submarine.</c0:p29><c1:p31>Cruise on through the grotto.</c1:p31>
+
+
+<p17>With a rush of water, the giant squid attacks you. Two 20 foot tentacles with their pulsing suction cups reach out trying to ensnare you. You dive off the platform and rapidly fire two of your spears. They strike the squid close to its two monstrous eyes. But the squid keeps on coming. One of the tentacles wraps around your diving helmet and ruptures the seal to your suit. You fire your last spear hoping to hit the monster in a vulnerable spot. Water is beginning to trickle into your suit. You signal the Maray to haul you up fast— "Emergency Hoist." You must have hit the squid. It floats away writhing and thrashing. You think you're about to black out. You wake up on the deck of the Moray and are quickly rushed to the decompression chambers to ward off the effect of the bends. In a few days you are better and start to worry about diving into the abyss again.</p17>
+
+
+<d11><c0:p32>Quit the expedition now.</c0:p32><c1:p33>Go back down to the deep.</c1:p33>
+
+
+<p18>As they begin the rapid hauling, you lose your ability to function in the deep. You start to get dizzy and your arms and legs feel weak. You lose your hold on the platform and drift in the water exhausted. Then you see a dolphin heading toward you. You know that these marvelous mammals sometimes help people in trouble. Will it help you?</p18>
+
+
+<d12><c0:p32>Try to get help from the dolphin.</c0:p32><c1:p37>Carry on alone swimming to the surface</c1:p37>
+
+
+<p19>You wait for the shark to go away. But then you notice other sharks coming to join in the hunt. They circle you, coming closer and faster each time. It is too late. There is no escape!<end></p19>
